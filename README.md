@@ -1,18 +1,19 @@
 # 欢迎来到我的 GitHub 主页！
 
-![GitHub Banner](https://your-image-url.com/banner.png)
+<div align="center">
+    <img src="https://ollama.com/public/ollama.png" alt="GitHub Banner" width="90">
+</div>
 
 ## 关于我
 
-👋 你好，我是 [你的名字]，一名热爱编程和开源的开发者。
+👋 你好，我是 Waya，一名热爱编程和开源的开发者。
 
-- 🔭 我目前正在研究 [你的项目名称]。
-- 🌱 我正在学习 [你正在学习的内容]。
-- 👯 我正在寻找合作 [你希望合作的项目或领域]。
-- 💬 问我关于 [你擅长的领域] 的问题。
-- 📫 如何联系我: [你的邮箱或其他联系方式]。
-- 😄 代名词: [你的代名词]。
-- ⚡ 有趣的事实: [一个有趣的事实]。
+- 🔭 我目前正在研究 LLM，深度学习，机器人系统设计。
+- 🌱 我正在学习 「Rust 嵌入式&前后端」
+- 👯 我正在寻找合作 「产品设计」
+- 💬 可以问我关于 「机器视觉，新工科教育」 的问题。
+- 📫 如何联系我: lespuavres@gmail.com
+- ⚡ 是个学生苦于创业，不断学习，不停思考。
 
 ## 我的技能
 
@@ -28,10 +29,5 @@
 
 ## 联系我
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username/)
+- [Twitter](https://twitter.com/Les_pauvres/)
 - [个人网站](https://your-website.com)
-
-感谢你的访问！
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
