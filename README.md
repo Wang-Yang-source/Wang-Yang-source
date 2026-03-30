@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Waya!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Manager%20|%20Smart%20Hardware%20ToC%20Product%20Manager&descAlignY=55&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Waya!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Portfolio!&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
 <div align="center">
-  <h3>✨ 懂技术的 AI 产品经理 & 懂设计的智能硬件产品经理 ✨</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=✨+懂技术的+AI+产品经理+✨;✨+懂设计的智能硬件产品经理+✨;AI+Product+Manager;Smart+Hardware+ToC+Product+Manager" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 💡 关于我 | About Me
@@ -26,22 +28,24 @@
 作为一名复合型产品经理，我习惯用多种语言和工具与不同背景的团队同频对话：
 
 ### 🎯 产品与设计 | Product & Design
-![Axure](https://img.shields.io/badge/-Axure-222222?style=flat&logo=axure&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Rhino 8](https://img.shields.io/badge/-Rhino%208-101010?style=flat&logo=rhinoceros&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-0696D7?style=flat&logo=autodesk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ae,ps,pr" alt="design icons" />
+  <img src="https://img.shields.io/badge/Axure-222222?style=for-the-badge&logo=axure&logoColor=white" height="48" style="vertical-align:top;" />
+  <img src="https://img.shields.io/badge/Rhino_8-101010?style=for-the-badge&logo=rhinoceros&logoColor=white" height="48" style="vertical-align:top;" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="48" style="vertical-align:top;" />
+</p>
 
 ### 🤖 AI 与硬件 | AI & Hardware
-![LLM](https://img.shields.io/badge/-LLM-000000?style=flat&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Robotics](https://img.shields.io/badge/-Robotics-4A154B?style=flat&logo=ros&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-8BC0D0?style=flat&logo=arm&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,arduino" alt="ai and hardware icons" />
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white" height="48" style="vertical-align:top;" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-8BC0D0?style=for-the-badge&logo=arm&logoColor=white" height="48" style="vertical-align:top;" />
+</p>
 
 ### 💻 技术栈 | Tech Stack
-**Languages:** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-**Frameworks/Engines:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![UE5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat&logo=unreal-engine&logoColor=white)
-**OS:** ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,ts,kotlin,react,unreal,mac,windows,ubuntu,linux" alt="tech stack icons" />
+</p>
 
 ---
 
@@ -54,24 +58,30 @@
 
 ---
 
+## 📊 GitHub 数据 | GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 ## 📫 联系我 | Contact Me
 
 期待与更多志同道合的伙伴交流，一起做出很酷的产品！
 
-<p>
+<p align="center">
   <a href="mailto:lespuavres@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lespuavres@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-lespuavres@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/Les_pauvres/">
-    <img src="https://img.shields.io/badge/Twitter-@Les__pauvres-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-@Les__pauvres-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-Personal_Blog-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Personal_Blog-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
--->
