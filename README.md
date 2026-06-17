@@ -17,12 +17,12 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=920&lines=CTO+%40+ArcRaven+%7C+Core+Builder+of+Huginn;CQU+Mingyue+Class+%2F+Xbot+System;RoboMaster+Qianli+Team+Leader;Rust+%2B+Flutter+%2B+STM32C5+%2B+AI+Agents" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=920&lines=CTO+%40+ArcRaven+%7C+Core+Builder+of+Huginn;Robotics+%2F+Intelligent+Hardware+Builder;RoboMaster+Qianli+Team+Leader;Rust+%2B+Flutter+%2B+STM32C5+%2B+AI+Agents" alt="Typing intro" />
 </div>
 
 ## About Me
 
-我是一名坐标重庆的技术实践者，正在重庆大学明月班（Xbot 体系）学习与成长，同时担任重庆市弧鸦创新科技有限公司（ArcRaven）的技术负责人（CTO），也是软件团队 Huginn 的核心构建者。
+我是一名坐标重庆的技术实践者，同时担任重庆市弧鸦创新科技有限公司（ArcRaven）的技术负责人（CTO），也是软件团队 Huginn 的核心构建者。
 
 我关注机器人、智能硬件和 AI 工程化落地：从 PCB、嵌入式系统、工业级硬件调试，到 Flutter、Rust/Tauri、Linux 开发环境和智能体工作流，我习惯把想法推进到可以真实运行、交付和迭代的状态。
 
@@ -63,7 +63,7 @@ RoboMaster     Team-scale robotics engineering and competition systems
 
 ## Professional Snapshot
 
-> 你好，我是 Waya，一名跨学科的技术实践者，目前在重庆大学深造，并在机器人与智能硬件领域深耕。
+> 你好，我是 Waya，一名跨学科的技术实践者，长期在机器人、智能硬件与 AI 工程化领域深耕。
 
 作为 ArcRaven 的技术负责人，我致力于把前沿 AI 技术与工程化落地结合。我具备从 PCB 设计、底层嵌入式系统开发，到跨平台软件架构的全栈技术经验。无论是开发 AI 辅助交互设备，还是构建自动化研发环境，我都希望通过代码和硬件创造更高效、更自然的交互体验。
 
@@ -72,7 +72,7 @@ RoboMaster     Team-scale robotics engineering and competition systems
 ```rust
 struct Waya {
     city: &'static str,
-    roles: [&'static str; 4],
+    roles: [&'static str; 3],
     daily_stack: [&'static str; 5],
     belief: &'static str,
 }
@@ -80,7 +80,6 @@ struct Waya {
 let me = Waya {
     city: "Chongqing",
     roles: [
-        "CQU Mingyue Class student",
         "ArcRaven CTO",
         "Huginn core builder",
         "RoboMaster Qianli team leader",
