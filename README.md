@@ -1,7 +1,7 @@
 # Hi, I'm Waya
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:2563EB,100:22C55E&text=Waya%20%7C%20ArcRaven&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Engineer%20%2F%20Founder%20%2F%20Robotics%20Builder%20in%20Chongqing&descSize=16&descAlignY=58&animation=fadeIn" alt="Waya profile banner" />
+  <img src="./assets/profile-banner.svg" alt="Waya ArcRaven animated profile banner" />
 </div>
 
 <div align="center">
