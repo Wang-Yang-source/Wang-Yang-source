@@ -1,5 +1,7 @@
 # Waya
 
+![Waya / ArcRaven ASCII banner](./assets/ascii-banner.gif)
+
 创业者 | 技术负责人（CTO） @ ArcRaven
 
 专注于软硬一体化产品研发，连接嵌入式系统、跨平台软件与 AI 智能体工程。当前在重庆带领团队推进高集成度硬件产品的从 0 到 1 落地。
